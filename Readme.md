@@ -14,6 +14,8 @@ Este projeto foi desenvolvido em:
 
 ![Projeto-Pesquisa de imagens](./img/Projeto2.gif)
 
+### Você pode testar a calculadora através deste [Link](https://pesquisa-de-imagens.vercel.app/)
+
 ## 🚀 API
 
 O projeto utilizou a API do site Unsplash para fazer a pesquisa das imagens. Link da documentação da API: [Unsplash website](https://unsplash.com/documentation). 

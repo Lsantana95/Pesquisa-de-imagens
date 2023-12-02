@@ -14,7 +14,7 @@ Este projeto foi desenvolvido em:
 
 ![Projeto-Pesquisa de imagens](./img/Projeto2.gif)
 
-### Você pode testar a calculadora através deste [Link](https://pesquisa-de-imagens.vercel.app/)
+### Você pode testar o site através deste [Link](https://pesquisa-de-imagens.vercel.app/)
 
 ## 🚀 API
 

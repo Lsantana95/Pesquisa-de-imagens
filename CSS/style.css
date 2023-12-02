@@ -1,0 +1,98 @@
+/* Estilos CSS para a página */
+body {
+  font-family: "Helvetica", sans-serif;
+  background-color: #b8b3b7;
+}
+
+/* Container */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 72px;
+}
+
+header {
+  background-color: #3498db;
+  padding: 12px;
+  height: 18vh;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  color: #161716;
+  font-size: 30px;
+}
+
+/* Estilizando o input */
+.search-container {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  position: relative;
+}
+
+input {
+  width: 100%;
+  border-radius: 25px;
+  font-size: 20px;
+  padding: 8px 40px 8px 20px;
+  margin-left: 22%;
+  border: none;
+  background-color: #3de5ff;
+  box-shadow: 0 5px 8px 3px black;
+}
+
+input:focus {
+  outline: none;
+}
+
+/* Estilizando o botão */
+button {
+  position: absolute;
+  right: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 18px;
+}
+
+button i {
+  color: rgb(9, 83, 156);
+}
+
+button:hover i {
+  color: rgb(2, 166, 87);
+}
+
+/* Cards das imagens */
+.card {
+  margin: 30px;
+  width: 300px;
+}
+.card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+  border-radius: 40px;
+  box-shadow: 5px 3px 5px 3px black;
+  transition: transform 0.5s;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+}
+
+.card h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.card p {
+  font-size: 14px;
+  color: #fcfcfc;
+}
